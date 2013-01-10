@@ -1,0 +1,15 @@
+# Plugin information
+name: "Debugger"
+description: "Herramientas de debug."
+version: "2.0"
+framework_version: "2.0"
+dependencies: ""
+notes: ""
+# Author information
+author: "Paul Marclay"
+email: "paul.eduardo.marclay@gmail.com"
+site: ""
+# Legal information
+company: "Dolem Labs"
+copyright: "(c) 2012 - Paul Marclay"
+license: "GNU GENERAL PUBLIC LICENSE"
